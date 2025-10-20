@@ -13,3 +13,10 @@
 - Studied: 12 hours
 - Notes: SQL Coursera (Audit) Module 1, Data Analytics with Python, SQL book, Digital Marketing and AI (Weekend addition of digital marketing and AI)
 
+##2025-10-19
+- Studied 12 hours
+- Notes: Today I dedicated my whole time to understand the context (background) of the ecosystem of Computer Networking, through the book Computer Networking (A top Down Approach) and mostly watching the videos on youtube by the same author. Before learning anything else, I needed to understand 'which skill fits where' and enables what. Intro Video recorded. As I choose my skill sets in a more organised manner and with a clear short term, intermediate and long term goal, I hope that I will be able to achieve all the goals. Keep learning. 
+
+##2025-10-20
+- Total study, video lectures and books 10 hours
+- Notes: I will suggest everyone without any technical background but who have some familiarity with Front End and Back End parts of a Compueter Networking Ecosystem, to read Computer Netowrking (A top down approach) before doing anything else. You will get to know how the layers of Computer netowrking have evolved. How are the going to be decoupled from each other in the future. After that, everything falls into place. As always, Digital Marketing Guide and Business Analytics was fun because these subjects are easier. We should not undermine them because they are the ones which will get our skills monetised as soon as possible. Happy Diwali to all of you who belong to the Indian Diaspora in foreign countries and to my fellow countrymen who are living here in India. Nothing like putting in the hard work and then enjoying some festivities.
