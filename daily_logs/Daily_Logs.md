@@ -20,3 +20,8 @@
 ##2025-10-20
 - Total study, video lectures and books 10 hours
 - Notes: I will suggest everyone without any technical background but who have some familiarity with Front End and Back End parts of a Compueter Networking Ecosystem, to read Computer Netowrking (A top down approach) before doing anything else. You will get to know how the layers of Computer netowrking have evolved. How are the going to be decoupled from each other in the future. After that, everything falls into place. As always, Digital Marketing Guide and Business Analytics was fun because these subjects are easier. We should not undermine them because they are the ones which will get our skills monetised as soon as possible. Happy Diwali to all of you who belong to the Indian Diaspora in foreign countries and to my fellow countrymen who are living here in India. Nothing like putting in the hard work and then enjoying some festivities.
+
+##2025-10-21
+- Total study and video course 4 hours (I had to meet a client in Ludhiana, Punjab, interests coming in)
+- Notes: I read the book Computer Networking (A top down approach) after watching the videos on youtube by the same author, Kurose. I recommend that the videos should be watched before starting this particular book. Makes reading the book so easier and interesting. Dived deep into Google's digital marketing tool i.e. Google tags through a Udemy course Mega Google Analytics 4 + Google Tag Manager for Beginners.
+
