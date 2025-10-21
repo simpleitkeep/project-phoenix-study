@@ -24,4 +24,5 @@
 ##2025-10-21
 - Total study and video course 4 hours (I had to meet a client in Ludhiana, Punjab, interests coming in)
 - Notes: I read the book Computer Networking (A top down approach) after watching the videos on youtube by the same author, Kurose. I recommend that the videos should be watched before starting this particular book. Makes reading the book so easier and interesting. Dived deep into Google's digital marketing tool i.e. Google tags through a Udemy course Mega Google Analytics 4 + Google Tag Manager for Beginners.
+P.S. Github's Copilot is awesome
 
