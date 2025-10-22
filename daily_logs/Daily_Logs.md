@@ -30,5 +30,6 @@ P.S. Github's Copilot is awesome
 - !!VERY IMPORTANT: I have realised that in order to learn any topic, we need to understand the need to invent that topic/subject/tool, at the time it was invented/made into a discipline. Which were the real world problems that it solved then, how has it evolved to its present form due to 'which' improvements attaned by changing 'what'. This evolitionary theory should be learned as a primer through videos, before even opening a book.
 - Total study, video and practice 12 hours
 - Got to involved with the BPMN 2.0 framework for the digital transformation of MSMEs in India. It is idealistic but not practical for me to learn something that requires an execution time of 10 hours a day in the field. That can push me back on my study sschedule.
-- Realigning focus towards, Data Analysis, Business Analytics, Digital Marketing (AI), Cloud Infra and Cybersecurity.  
+- Realigning focus towards, Data Analysis, Business Analytics, Digital Marketing (AI), Cloud Infra and Cybersecurity.
+- Completed AWS Cloud Essentials Modules 2 and 3. Again, please watch a lot of youtube videos to understand Cloud Architecture. Amazon's overlapping solutions are so finely differentiated as per the demands of the market that from a theoretical point of view alone, a layman like me had to gather all his wits to pass the assignments. Understand the ecosystem and its evolution. 
 
