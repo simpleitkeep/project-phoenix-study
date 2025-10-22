@@ -26,3 +26,6 @@
 - Notes: I read the book Computer Networking (A top down approach) after watching the videos on youtube by the same author, Kurose. I recommend that the videos should be watched before starting this particular book. Makes reading the book so easier and interesting. Dived deep into Google's digital marketing tool i.e. Google tags through a Udemy course Mega Google Analytics 4 + Google Tag Manager for Beginners.
 P.S. Github's Copilot is awesome
 
+##2025-10-22
+- !!VERY IMPORTANT: I have realised that in order to learn any topic, we need to understand the need to invent that topic/subject/tool, at the time it was invented/made into a discipline. Which were the real world problems that it solved then, how has it evolved to its present form due to 'which' improvements attaned by changing 'what'. This evolitionary theory should be learned as a primer through videos, before even opening a book. 
+
