@@ -27,5 +27,8 @@
 P.S. Github's Copilot is awesome
 
 ##2025-10-22
-- !!VERY IMPORTANT: I have realised that in order to learn any topic, we need to understand the need to invent that topic/subject/tool, at the time it was invented/made into a discipline. Which were the real world problems that it solved then, how has it evolved to its present form due to 'which' improvements attaned by changing 'what'. This evolitionary theory should be learned as a primer through videos, before even opening a book. 
+- !!VERY IMPORTANT: I have realised that in order to learn any topic, we need to understand the need to invent that topic/subject/tool, at the time it was invented/made into a discipline. Which were the real world problems that it solved then, how has it evolved to its present form due to 'which' improvements attaned by changing 'what'. This evolitionary theory should be learned as a primer through videos, before even opening a book.
+- Total study, video and practice 12 hours
+- Got to involved with the BPMN 2.0 framework for the digital transformation of MSMEs in India. It is idealistic but not practical for me to learn something that requires an execution time of 10 hours a day in the field. That can push me back on my study sschedule.
+- Realigning focus towards, Data Analysis, Business Analytics, Digital Marketing (AI), Cloud Infra and Cybersecurity.  
 
