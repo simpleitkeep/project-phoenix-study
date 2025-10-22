@@ -31,5 +31,6 @@ P.S. Github's Copilot is awesome
 - Total study, video and practice 12 hours
 - Got to involved with the BPMN 2.0 framework for the digital transformation of MSMEs in India. It is idealistic but not practical for me to learn something that requires an execution time of 10 hours a day in the field. That can push me back on my study sschedule.
 - Realigning focus towards, Data Analysis, Business Analytics, Digital Marketing (AI), Cloud Infra and Cybersecurity.
-- Completed AWS Cloud Essentials Modules 2 and 3. Again, please watch a lot of youtube videos to understand Cloud Architecture. Amazon's overlapping solutions are so finely differentiated as per the demands of the market that from a theoretical point of view alone, a layman like me had to gather all his wits to pass the assignments. Understand the ecosystem and its evolution. 
+- Completed AWS Cloud Essentials Modules 2 and 3. Again, please watch a lot of youtube videos to understand Cloud Architecture. Amazon's overlapping solutions are so finely differentiated as per the demands of the market that from a theoretical point of view alone, a layman like me had to gather all his wits to pass the assignments. Understand the ecosystem and its evolution.
+- I will post a Video tomorrow regarding the insights that I have been able to gather will now. 
 
