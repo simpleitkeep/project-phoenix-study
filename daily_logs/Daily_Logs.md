@@ -32,5 +32,8 @@ P.S. Github's Copilot is awesome
 - Got to involved with the BPMN 2.0 framework for the digital transformation of MSMEs in India. It is idealistic but not practical for me to learn something that requires an execution time of 10 hours a day in the field. That can push me back on my study sschedule.
 - Realigning focus towards, Data Analysis, Business Analytics, Digital Marketing (AI), Cloud Infra and Cybersecurity.
 - Completed AWS Cloud Essentials Modules 2 and 3. Again, please watch a lot of youtube videos to understand Cloud Architecture. Amazon's overlapping solutions are so finely differentiated as per the demands of the market that from a theoretical point of view alone, a layman like me had to gather all his wits to pass the assignments. Understand the ecosystem and its evolution.
-- I will post a Video tomorrow regarding the insights that I have been able to gather will now. 
+- I will post a Video tomorrow regarding the insights that I have been able to gather will now.
+
+  ##2025-10-23 to 2025-10-26 posted on 2025-10-26 (Apologies for posting late, I was posting on Notion all this while)
+  - Total Study and application: 30 Hours in 4 days. We managed to clock our highest duration of 13 hours a day on 23rd of October. I recorded only 1 hour (our minimum till now) on 24th October because all day on 24th was spent in confusion. I was searching for the right amount of context to be able to ascertain which skill should I master first. Till 8PM today we have managed to create a Headless Wordpress website (I could not even dream of it a week ago) with 9 hours of work and 2 hours of studying the backend of such decoupled web application. I created a sub-domain of my main Domain promot.co.in called next.promot.co.in. In US, headless websites are created anywhere between 25000 USD to 100000. We will soon start marketing our services. 
 
