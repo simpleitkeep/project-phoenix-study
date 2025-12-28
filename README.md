@@ -1,33 +1,54 @@
-Enterprise Cloud, Cybersecurity & Risk Architect
+Enterprise Systems, Cloud & Risk Architecture
 
-I work at the intersection of **networking, cloud architecture, cybersecurity, and decision-making.
+This GitHub documents a long-horizon execution path focused on **how complex systems are built, secured, and governed.
 
-My focus is not tools, certifications, or trends.
-It is how complex systems fail, how risk propagates, and how leaders make decisions under uncertainty.
+My work spans:
+- Enterprise networking (CCNA foundations → advanced routing, switching, and network design)
+- Cloud architecture and cloud security (AWS-first)
+- Cybersecurity and threat modeling
+- Risk, resilience, and decision frameworks for organisations
 
-What this GitHub represents
-This repository is a **public execution trail:
-- Real learning
-- Real labs
-- Real architectural thinking
-- No copied tutorials
-- No artificial activity
+Project Phoenix
+Project Phoenix is a multi-year public execution initiative.
 
-Project Phoenix (365 Days)
-I am documenting one year of disciplined upskilling and system-building across:
-- Networking (CCNA → enterprise networking)
-- Cloud architecture (AWS-first)
-- Cybersecurity & risk
-- Decision frameworks for enterprises
+It combines:
+- Hands-on labs and architecture design
+- Canonical texts and foundational theory
+- Structured frameworks that translate technical decisions into business risk and cost implications
 
-The goal is decision-grade clarity, not academic completeness.
+The objective is not tool proficiency.
+The objective is **decision-grade understanding**.
 
-How to read this GitHub
+How to read this repository
+- Diagrams over scripts
+- Reasoning over memorisation
+- Architecture over configuration
+- Failure modes over success stories
+
+Each repository represents a **thinking artifact**, not a finished product.
+
+Progression Philosophy
+Certifications are milestones, not destinations.
+They provide structure, not authority.
+
+This work progresses intentionally from:
+- Foundations → advanced systems
+- Implementation → assessment
+- Components → whole systems
+
+Independence
+Assessment, optimisation, and implementation are treated as intellectually distinct activities.
+This repository reflects that separation.
+
+---
+_This is not a portfolio.  
+It is a record of disciplined, compounding execution._
+
 - Markdown > code
 - Diagrams > scripts
 - Reasoning > memorisation
 
-Each repository reflects a **thinking artifact**, not a finished product.
+Each repository reflects a thinking artifact, not a finished product.
 
 Ethics & Independence
 I believe assessment, optimisation, and implementation must remain intellectually independent.
